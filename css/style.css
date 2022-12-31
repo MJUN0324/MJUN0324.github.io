@@ -438,6 +438,62 @@ nav ul li a {
   width: 100%;
 }
 
+#portfolio .portfolio-container .box {
+  color: #FFFFFF;
+  background-color: #150c3f;
+  border: 1px solid skyblue;
+  padding: 10px;
+}
+
+#portfolio .portfolio-container .box .date{
+  padding: 15px;
+}
+
+#portfolio .portfolio-container .box .title{
+  font-size: 20px;
+  font-weight: bold;
+  padding-left: 15px;
+  padding-bottom: 15px;
+}
+
+#portfolio .portfolio-container .box .desc ul{
+  margin-left: 10px;
+  padding-left: 25px;
+  margin-bottom: 5px;
+}
+
+#portfolio .portfolio-container .box .desc li{
+  padding-bottom: 10px;
+}
+
+#portfolio .portfolio-container .box2 {
+  color: #FFFFFF;
+  background-color: #3954fd;
+  border: 1px solid skyblue;
+  padding: 10px;
+}
+
+#portfolio .portfolio-container .box2 .date{
+  padding: 15px;
+}
+
+#portfolio .portfolio-container .box2 .title{
+  font-size: 20px;
+  font-weight: bold;
+  padding-left: 15px;
+  padding-bottom: 15px;
+}
+
+#portfolio .portfolio-container .box2 .desc ul{
+  margin-left: 10px;
+  padding-left: 25px;
+  margin-bottom: 5px;
+}
+
+#portfolio .portfolio-container .box2 .desc li{
+  padding-bottom: 10px;
+}
+
 .portfolio-thumbnail {
   margin-bottom: 30px;
   overflow: hidden;
