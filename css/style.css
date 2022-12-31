@@ -436,6 +436,7 @@ nav ul li a {
   display: inline-block;
   margin-bottom: 50px;
   width: 100%;
+  text-align: left;
 }
 
 #portfolio .portfolio-container .box {
