@@ -280,6 +280,18 @@
     float: none;
     margin: 20px;
   }
+  #portfolio .portfolio-container .box {
+    font-size: 10px;
+  }
+  #portfolio .portfolio-container .box .title{
+    font-size: 15px;
+  }
+  #portfolio .portfolio-container .box2 {
+    font-size: 10px;
+  }
+  #portfolio .portfolio-container .box2 .title{
+    font-size: 15px;
+  }
   /* journal */
   #journal .journal-block .journal-info {
     margin-bottom: 30px;
